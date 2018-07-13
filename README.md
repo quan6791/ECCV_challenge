@@ -16,6 +16,7 @@ or
 $./predict.bash
 ```
 Note:
+> The source code still up to date 
 > The pretrain models will be updated after the competion ends 
 
 Challenge references:
