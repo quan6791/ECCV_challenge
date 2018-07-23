@@ -31,7 +31,7 @@ or
 $./predict.bash
 ```
 
-Models links:
+Pre-trained models links:
 
 Track-2:
 [stage1](https://www.dropbox.com/s/2kaa7ugradazx3c/stage01.h5?dl=0)
