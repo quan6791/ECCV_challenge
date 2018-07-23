@@ -7,9 +7,19 @@ the challange 03: Denoising and inpainting for fingerprint verification
 
 The structure of challenge files:
 
---challenge#:
-
-    ---
+--challenge
+       
+       -- models
+       
+       -- source
+               
+               --files
+               
+               --predict.bash
+       
+       -- data_set
+       
+       
 To run the code:
 ```sh
 $ chmod +x run.bash
